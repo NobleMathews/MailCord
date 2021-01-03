@@ -1,2 +1,4 @@
 */confidential/*
 .idea/
+*.pickle
+*.env
